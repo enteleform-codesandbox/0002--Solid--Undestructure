@@ -1,6 +1,6 @@
 import {batch, createEffect, createSignal} from "solid-js"
 
-/* works without issue */
+/** Works without issue. */
 //import * as Foo from "./Foo_NamedExports"
 
 /** Uncaught TypeError: Cannot read properties of undefined (reading 'name') */
